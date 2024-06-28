@@ -919,12 +919,14 @@ input.searchbar:-moz-placeholder {
         text-align: center;
         align-items: center;
         
+        
     }
 
     .footer3_left, .footer3_right {
         margin: 10px 0;
         flex-direction: column;
         gap: 0%;
+        padding: 0;
     }
     
     .logo_footer {
