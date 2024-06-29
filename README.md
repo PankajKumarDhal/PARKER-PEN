@@ -8,7 +8,7 @@
 5. [Footer](#footer)
 6. [Steps to Clone](#steps-to-clone)
 7. [Hosted Link](#hosted-link)
-8. [Technologies and Tools Used](#technologies-and-tools-used)
+
 
 ## Introduction
 Welcome to the Perker Pens website codebase! This project is a static HTML site representing Perker Pens, showcasing their products and brand history. The site features a header, navigation bar, body, and footer, all designed with HTML and CSS. The site is enhanced with Font Awesome icons for a modern look.
@@ -43,7 +43,6 @@ The footer contains several parts:
 1. Clone the repository to your local machine using:
    ```bash
    git clone <repository-url>
-   
-2. Hosted link
+## Hosted Link   
    ```bash
      https://pankajkumardhal.github.io/PARKER-PEN/
