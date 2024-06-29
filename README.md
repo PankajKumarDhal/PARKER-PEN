@@ -46,4 +46,4 @@ The footer contains several parts:
    
 2. Hosted link
    ```bash
-     link: 
+     https://pankajkumardhal.github.io/PARKER-PEN/
