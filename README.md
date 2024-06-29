@@ -43,6 +43,7 @@ The footer contains several parts:
 1. Clone the repository to your local machine using:
    ```bash
    git clone <repository-url>
+   
 2. Hosted link
    ```bash
-  link: 
+     link: 
