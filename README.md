@@ -4,11 +4,16 @@
 1. [Introduction](#introduction)
 2. [Header](#header)
 3. [Navigation Bar](#navigation-bar)
+   - [Collection](#collection)
+   - [Pen Gifts](#pen-gifts)
+   - [Ink & Refills](#ink--refills)
+   - [Writing Types](#writing-types)
+   - [World of Parker](#world-of-parker)
+   - [Pen Care Guides](#pen-care-guides)
 4. [Body](#body)
 5. [Footer](#footer)
 6. [Steps to Clone](#steps-to-clone)
 7. [Hosted Link](#hosted-link)
-
 
 ## Introduction
 Welcome to the Perker Pens website codebase! This project is a static HTML site representing Perker Pens, showcasing their products and brand history. The site features a header, navigation bar, body, and footer, all designed with HTML and CSS. The site is enhanced with Font Awesome icons for a modern look.
@@ -20,12 +25,24 @@ The header consists of two main sections:
 
 ## Navigation Bar
 The navigation bar provides links to different sections of the website, making it easy for users to explore various collections and information about Parker pens. The links include:
-- **Collection:** Takes you to the page showcasing different pen collections.
-- **Pen Gifts:** Directs you to the section featuring gift sets and special edition pens.
-- **Ink & Refills:** Provides information and options for purchasing ink and refills for Parker pens.
-- **Writing Types:** Helps you explore various types of writing instruments offered by Parker.
-- **World of Parker:** Offers insights into the history and craftsmanship of Parker pens.
-- **Pen Care Guides:** Contains guides and tips for maintaining and caring for your Parker pens.
+
+### Collection
+Takes you to the page showcasing different pen collections.
+
+### Pen Gifts
+Directs you to the section featuring gift sets and special edition pens.
+
+### Ink & Refills
+Provides information and options for purchasing ink and refills for Parker pens.
+
+### Writing Types
+Helps you explore various types of writing instruments offered by Parker.
+
+### World of Parker
+Offers insights into the history and craftsmanship of Parker pens.
+
+### Pen Care Guides
+Contains guides and tips for maintaining and caring for your Parker pens.
 
 ## Body
 The body section showcases different collections and highlights of Parker Pens. It includes:
