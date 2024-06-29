@@ -59,7 +59,7 @@ The footer contains several parts:
 ## Steps to Clone
 1. Clone the repository to your local machine using:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PankajKumarDhal/PARKER-PEN.git
 ## Hosted Link   
    ```bash
      https://pankajkumardhal.github.io/PARKER-PEN/
